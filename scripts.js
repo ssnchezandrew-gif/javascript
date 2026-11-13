@@ -1,0 +1,12 @@
+var variable1 = 1;
+var variable2 = "cadena";
+var variable3 = 5.5;
+var variable4 = true;
+console.log(variable1);
+console.log(variable2);
+console.log(variable3);
+console.log(variable4);
+console.log(typeof variable1);   
+console.log(typeof variable2);   
+console.log(typeof variable3);   
+console.log(typeof variable4);   
